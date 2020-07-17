@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hey 👋🏽, I'm [kipply!](https://carolchen.me) 
 
-<!--
-**kipply/kipply** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://twitter.com/kipperrii">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<br />
+<br />
 
-Here are some ideas to get you started:
+I am a programmer in Toronto working on some cool AI! I used to work at Shopify and Hatch Canada, where I've done full-stack and worked on TruffleRuby
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![kipply's github stats](https://github-readme-stats.vercel.app/api?username=kipply&show_icons=true&hide_border=true)
+
+⭐️ From [kipply](https://github.com/kipply)
+
+
+<a href="https://github.com/kipply/A-POP">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kipply&repo=A-POP" />
+</a>
+
+<a href="https://github.com/kipply/IIITDMJ-GPA">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kipply&repo=IIITDMJ-GPA" />
+</a>
+
+
